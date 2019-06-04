@@ -21,8 +21,8 @@
                             <th>Phone</th>
                             <th>Attend Questions</th>
                             <th>Duration</th>
-                            <th>Score</th>
                             <th>Status</th>
+                            <th>Score</th>
                         </tr>
                     </thead>
                     <tbody>
