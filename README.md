@@ -1,6 +1,6 @@
 # Installation and deployment
 
-git clone  git clone https://github.com/chithresudev/Online-Quiz-Test.git project
+git clone  git clone https://github.com/chithresudev/OnlineQuizApp.git project
 
 cd project
 
